@@ -1,0 +1,7 @@
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\bin\Debug\LorryQueue.exe.config
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\bin\Debug\LorryQueue.exe
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\bin\Debug\LorryQueue.pdb
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\obj\Debug\LorryQueue.csprojAssemblyReference.cache
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\obj\Debug\LorryQueue.csproj.CoreCompileInputs.cache
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\obj\Debug\LorryQueue.exe
+E:\Professional Programming\Mini Projects\LorryQueue\LorryQueue\obj\Debug\LorryQueue.pdb
